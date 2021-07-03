@@ -1,0 +1,11 @@
+br\anna\clothes\produtos\ProdutoService.class
+br\anna\clothes\produtos\Produto_.class
+br\anna\clothes\config\CrossOriginFilter.class
+br\anna\clothes\produtos\Produto.class
+br\anna\clothes\pessoas\Pessoa.class
+br\anna\clothes\pessoas\Pessoa_.class
+br\anna\clothes\config\ApplicationConfig.class
+br\anna\clothes\vendas\Venda.class
+br\anna\clothes\vendas\Venda_.class
+br\anna\clothes\pessoas\PessoaService.class
+br\anna\clothes\vendas\VendaService.class
